@@ -3,3 +3,4 @@ Bogdan_2024.cc, 294838, DIRECT
 qortex.ai, 139258, DIRECT
 Tets.com, 164329, DIRECT, 8888
 Tets.com, 9999, DIRECT, 8888
+qortex.ai, 142139, DIRECT
