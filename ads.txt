@@ -5,3 +5,4 @@ Tets.com, 164329, DIRECT, 8888
 Tets.com, 9999, DIRECT, 8888
 qortex.ai, 142139, DIRECT
 testbulkcheck.co, 38oy3to, RESELLER, wekjrbewkbr
+qatestchecker.co, 3eoi238r, RESELLER
