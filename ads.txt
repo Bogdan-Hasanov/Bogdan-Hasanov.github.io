@@ -1,5 +1,3 @@
-qortex.ai, 164329, DIRECT
 Bogdan_2024.cc, 294838, DIRECT
-qatestadstxt145.qa, e9ue29eu91, RESELLER	
-qortex.ai, 139258, DIRECT
+qatestadstxt145.qa, e9ue29eu9, RESELLER	
 dartest145.qa, darqa145test, DIRECT, 239rt2479gt943g9
