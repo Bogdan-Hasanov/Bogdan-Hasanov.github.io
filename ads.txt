@@ -1,3 +1,3 @@
 shemedia.com, 1240707, DIRECT, 8dd52f825890bb44
 testdevnewtable2.co, 38383838, RESELLER
-qortex.ai, 178452, DIRECTS
+qortex.ai, 178452, DIRECT
