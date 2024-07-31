@@ -1,1 +1,2 @@
-shemedia.com, 1240707, RESELLER, 8dd52f825890bb44
+shemedia.com, 1240707, DIRECT, 8dd52f825890bb44
+testdevnewtable2.co, 38383838, RESELLER
