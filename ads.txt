@@ -1,4 +1,4 @@
 Test3.com, test3, DIRECT, test3
 Bogdan_2024.cc, 294838, DIRECT
-qortex.ai, 1392581, DIRECT
-qortex.ai, 1643291, DIRECT
+qortex.ai, 139258, DIRECT
+qortex.ai, 164329, DIRECT
