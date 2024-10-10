@@ -1,4 +1,6 @@
 qortex.ai, 164329, DIRECT
+qortex.ai, 139258, DIRECT
 shemedia.com, 1240707, DIRECT, 8dd52f825890bb44
 yahoo.com, 59885, RESELLER, e1a5b5b6e3255540
 Test-Serhii1.com, 0000000001, DIRECT, 212k2
+
