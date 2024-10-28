@@ -1,3 +1,4 @@
 qortex.ai, 139258, DIRECT
 indexexchange.com, 191503, RESELLER, 50b1c356f2c5c8fc
-sovrn.com, 260380, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 260380, RESELLER, fafdf38b16bf6b2
+xandr.com, 14082, RESELLER, f5ab79cb980f11d1
